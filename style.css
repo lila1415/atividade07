@@ -1,0 +1,64 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+
+.titulo{
+    text-align: center;
+    font-family:'roboto' ;
+    background-color: rgb(123, 123, 218);
+    color: rgb(22, 22, 102);
+    font-style: unset;
+    font-weight: 900;
+}
+h3{
+    font-family:'roboto' ;
+   color: rgb(1, 1, 8);
+    font-size: larger;
+    text-align: justify;
+    text-decoration: underline;
+    text-transform: initial;
+    font-weight: 900;
+
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,900;1,900&family=Roboto:ital,wght@1,100;1,900&family=Source+Sans+Pro:ital,wght@1,400;1,900&display=swap');
+
+
+.p1{
+  text-align: center;
+  font-family:'barlow' ;
+  background-color: rgb(123, 218, 197);
+  color: rgb(12, 12, 12);
+  font-style: unset;
+  font-weight: 900;
+}
+.p2{
+  font-family:'barlow' ;
+   color: rgb(0, 0, 0);
+    font-size: larger;
+    text-align: justify;
+    text-decoration: underline;
+    text-transform: initial;
+    font-weight: 900;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,900;1,900&family=Roboto:ital,wght@1,100;1,900&family=Source+Sans+Pro:ital,wght@1,400;1,900&display=swap');
+  .g1{
+    text-align: center;
+    font-family:'barlow' ;
+    background-color: rgb(123, 180, 218);
+    color: rgb(12, 12, 12);
+    font-style: unset;
+    font-weight: 900;
+
+  }
+.g2{
+  font-family:'barlow' ;
+  color: rgb(0, 0, 0);
+   font-size: larger;
+   text-align: justify;
+   text-decoration: underline;
+   text-transform: initial;
+   font-weight: 900;
+
+}
